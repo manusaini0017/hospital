@@ -352,7 +352,7 @@ nav a{line-height: 40px;}
      .wrap-1 .circle{display: none;}
    .wrap-3 h1{font-size: 15px;}
    .wrap-3 p{ font-size: 13px; margin: 10px 0 5px 0;}
-   .wrap-3 .read-more{margin: 0  0 19px -119px;  width: 124px; height: 39px;}
+   .wrap-3 .read-more{margin: 0  0 7px -119px;  width: 124px; height: 39px;}
    .read-more a{font-size: 14px;}
    .wrap-3 img{width: 51px; bottom: 24px;}
     .wrap-3{padding: 5px 0; background-size: 150%;}
@@ -360,6 +360,8 @@ nav a{line-height: 40px;}
     .wrap-6{padding: 63px 0 0 0;}
     .wrap-7{padding: 34px 0;}
     .wrap-9{padding: 39px 0 52px 0;}
+    .wrap-9 .circle img{width: 69%;}
+    .wrap-10 .read-more{width: 148px;}
 
     .col-p-6{flex-basis: 50%; max-width: 50%;}
 
